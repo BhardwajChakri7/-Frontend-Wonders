@@ -28,7 +28,3 @@ Welcome to **Frontend Wonders**, your ultimate hub for stunning, responsive, and
 - 📱 **Fully Responsive**: Perfect on all screen sizes.  
 - 🛠️ **Customizable**: Code that's easy to adapt to your needs.  
 - 📖 **Well-Documented**: Clear instructions for seamless implementation.  
-
----
-
-## 📂 **Folder Structure**  
